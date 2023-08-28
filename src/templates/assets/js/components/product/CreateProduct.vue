@@ -165,6 +165,8 @@ export default {
       })
     },
 
+
+    
     // combination algorithm
     getCombn(arr, pre) {
       pre = pre || '';
